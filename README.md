@@ -1,3 +1,3 @@
 # Bug Severity Matrix
 
-<img src="./matrix.png" alt="bugmatrix"/>
+<img src="./matrix.jpg" alt="bugmatrix"/>
